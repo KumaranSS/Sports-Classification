@@ -27,5 +27,7 @@ REQUISITES
       fastai
       ImageDataBunch
       cnn_learner
-      
-          
+     
+BASE PAPER
+
+	https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-019-0417-8#Bib1

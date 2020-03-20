@@ -1,10 +1,13 @@
 SPORTS_CLASSIFICATION
+
           Classifies different set of images related to specific sport.
 	  
 DATASET LINK
+
           https://drive.google.com/drive/folders/1rbc0LSwhG_4CTC06DW9Q5XZ_AHZWDHLl
 	  
 STRUCTURE OF DATA
+
 data/
 	badminton/
 			00000000.jpg
@@ -16,9 +19,11 @@ data/
       ...
       
 MODEL
-      resnet-50
+
+	resnet-50
       
 REQUISTES
+      
       fastai
       ImageDataBunch
       cnn_learner

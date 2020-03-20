@@ -14,10 +14,6 @@ The objective of image classification is to identify and portray, as a unique gr
 This is a standard image classification challenge, where you need to build a classifier that can correctly decide which kind of sport appears on a given image.
 		
 we selected only 9 sport categories: badminton, basketball, baseball, icehockey, boxing, chess, fencing, football and hockey.
-
-## DATASET LINK
-
-          	https://drive.google.com/drive/folders/1rbc0LSwhG_4CTC06DW9Q5XZ_AHZWDHLl
 	  
 ## STRUCTURE OF DATA
 
@@ -44,4 +40,4 @@ we selected only 9 sport categories: badminton, basketball, baseball, icehockey,
      
 ## BASE PAPER
 
-https://www.researchgate.net/publication/275257620_Image_Classification_Using_Convolutional_Neural_Networks
+https://www.researchgate.net/publication/330527726_Analysis_of_sports_image_detection_technology_based_on_machine_learning

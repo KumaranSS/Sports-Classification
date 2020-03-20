@@ -22,7 +22,7 @@ MODEL
 
 	resnet-50
       
-REQUISTES
+REQUISITES
       
       fastai
       ImageDataBunch

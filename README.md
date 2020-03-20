@@ -31,4 +31,4 @@ REQUISITES
      
 BASE PAPER
 
-	 	 https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-019-0417-8#Bib1
+	 	https://www.researchgate.net/publication/275257620_Image_Classification_Using_Convolutional_Neural_Networks

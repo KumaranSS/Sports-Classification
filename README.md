@@ -9,14 +9,21 @@ DATASET LINK
 STRUCTURE OF DATA
 
 data/
+
 	badminton/
+	
 			00000000.jpg
+			
 			00000001.jpg
+			
 			...
 	baseball/
-      00000000.jpg
-      00000001.jpg
-      ...
+	
+      			00000000.jpg
+      
+      			00000001.jpg
+      
+      			...
       
 MODEL
 

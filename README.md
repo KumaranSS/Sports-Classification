@@ -21,14 +21,14 @@ STRUCTURE OF DATA
 		
 MODEL
 
-	  resnet-50
+	  	resnet-50
       
 REQUISITES
       
-      	  fastai
-      	  ImageDataBunch
-      	  cnn_learner
+      	fastai
+      	ImageDataBunch
+      	cnn_learner
      
 BASE PAPER
 
-	  https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-019-0417-8#Bib1
+	 	 https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-019-0417-8#Bib1

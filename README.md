@@ -1,10 +1,10 @@
 SPORTS_CLASSIFICATION
 
-          Classifies different set of images related to specific sport.
+          	Classifies different set of images related to specific sport.
 	  
 DATASET LINK
 
-          https://drive.google.com/drive/folders/1rbc0LSwhG_4CTC06DW9Q5XZ_AHZWDHLl
+          	https://drive.google.com/drive/folders/1rbc0LSwhG_4CTC06DW9Q5XZ_AHZWDHLl
 	  
 STRUCTURE OF DATA
 

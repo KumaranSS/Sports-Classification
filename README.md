@@ -1,12 +1,12 @@
-SPORTS_CLASSIFICATION
+##SPORTS_CLASSIFICATION
 
           	Classifies different set of images related to specific sport.
 	  
-DATASET LINK
+##DATASET LINK
 
           	https://drive.google.com/drive/folders/1rbc0LSwhG_4CTC06DW9Q5XZ_AHZWDHLl
 	  
-STRUCTURE OF DATA
+##STRUCTURE OF DATA
 
 	data/
 
@@ -19,16 +19,16 @@ STRUCTURE OF DATA
 			...
 		...
 		
-MODEL
+##MODEL
 
 	  	resnet-50
       
-REQUISITES
+##REQUISITES
       
       	fastai
       	ImageDataBunch
       	cnn_learner
      
-BASE PAPER
+##BASE PAPER
 
 	 	https://www.researchgate.net/publication/275257620_Image_Classification_Using_Convolutional_Neural_Networks

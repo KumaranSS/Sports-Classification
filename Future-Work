@@ -9,8 +9,11 @@ What Does ResNet Do?
 error rate. This can be handled by identity mapping.
 		*Keep learning the residuals to match the predicted with the actual
 	
-	
+Observation
+	*The dataset consists of 9 different set of sports with 2745 images.
+	*From the proposed approach we were able to get accuracy of 94.7%
+
 Extend Project
-	*Add more classes
+	*Add more classes(extending dataset )
         *Do live video classification 
 	*Recognising players

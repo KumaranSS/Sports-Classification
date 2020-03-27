@@ -1,5 +1,14 @@
 RESNET-50
-	Resnet is a very popular and powerful model.So it performs better.
+	ResNet is a short name for Residual Network. The principle on which ResNets work is to build a deeper networks compared to other 
+plain networks and simultaneously find a optimised number of layers to negate the vanishing gradient problem. It is a very popular and 
+powerful model.
+
+What Does ResNet Do?
+	The main goal of the residual network is to build a deeper neural network. We can have two intuitions based on this:
+		*As we keep going deeper into implementing large amount of layers, one should make sure not to degrade the accuracy and 
+error rate. This can be handled by identity mapping.
+		*Keep learning the residuals to match the predicted with the actual
+	
 	
 Extend Project
 	*Add more classes

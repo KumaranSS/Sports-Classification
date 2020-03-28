@@ -14,10 +14,13 @@ error rate. This can be handled by identity mapping.
 ## Observation
 	
   *The dataset consists of 9 different set of sports with 2745 images.
-	*From the proposed approach we were able to get accuracy of 94.7%
+  
+  *From the proposed approach we were able to get accuracy of 94.7%
 
 ## Extend Project
 	
   *Add more classes(extending dataset )
-        *Do live video classification 
-	*Recognising players
+  
+  *Do live video classification 
+  
+  *Recognising players
